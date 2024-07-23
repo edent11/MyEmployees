@@ -6,7 +6,7 @@ A single-page manual to manage the data of employees using SpringBoot & MySQL & 
  
 ```bash
 .
-└── MyEmployyes/
+└── MyEmployees/
     ├── backend/
     │   └── .../
     │       ├── Controller /
@@ -19,18 +19,19 @@ A single-page manual to manage the data of employees using SpringBoot & MySQL & 
     │       │   └── EmployeeRepository.java
     │       └── service/
     │           └── EmployeeService.java
-    └── frontend/
-        └── src/
-            ├── components/
-            │   ├── CustomTable.jsx
-            │   ├── DialogBox.jsx
-            │   └── TableRow.jsx
-            ├── images/
-            ├── style/
-            │   ├── dialogBox.css
-            │   └── table.css
-            ├── App.js
-            └── utiles.jsx
+    ├── frontend/
+    │   └── src/
+    │       ├── components/
+    │       │   ├── CustomTable.jsx
+    │       │   ├── DialogBox.jsx
+    │       │   └── TableRow.jsx
+    │       ├── images
+    │       ├── style/
+    │       │   ├── dialogBox.css
+    │       │   └── table.css
+    │       ├── App.js
+    │       └── utils.jsx
+    └── scripts.sql      
 ```
 
 # Screenshots
