@@ -3,11 +3,6 @@
 A single-page manual to manage the data of employees using SpringBoot * MySQL & React
 
 # Project Tree
-
-
-# Forking Guide
-
-
  
 ```bash
 .
@@ -40,3 +35,4 @@ A single-page manual to manage the data of employees using SpringBoot * MySQL & 
 
 # Screenshots
 
+# Demo
