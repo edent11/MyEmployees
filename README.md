@@ -25,7 +25,7 @@ A single-page manual to manage the data of employees using SpringBoot & MySQL & 
     │       │   ├── CustomTable.jsx
     │       │   ├── DialogBox.jsx
     │       │   └── TableRow.jsx
-    │       ├── images
+    │       ├── images/
     │       ├── style/
     │       │   ├── dialogBox.css
     │       │   └── table.css
